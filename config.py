@@ -1,7 +1,9 @@
 # config.py
 
 class Config(object):
-    """Common configurations"""
+    """
+    Common configurations
+    """
     
     
     # Put any configurations here that are common across all environments
